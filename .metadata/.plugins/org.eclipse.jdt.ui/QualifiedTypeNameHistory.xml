@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="com.biswojit.service.StudentserviceImple"/>
+    <fullyQualifiedTypeName name="com.biswojit.dao.StudentDaoImple"/>
+    <fullyQualifiedTypeName name="com.biswojit.bean.Student"/>
+    <fullyQualifiedTypeName name="com.biswojit.service.StudentService"/>
+    <fullyQualifiedTypeName name="com.biswojit.factory.StudentServiceFactory"/>
+    <fullyQualifiedTypeName name="com.biswojit.dao.StudentDao"/>
+    <fullyQualifiedTypeName name="com.biswojit.factory.StudentDaoFactory"/>
+    <fullyQualifiedTypeName name="com.biswojit.factory.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+</qualifiedTypeNameHistroy>
